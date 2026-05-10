@@ -1,5 +1,7 @@
 # Lucia Solari
 
+<img src="avatar.jpg" alt="Synthetic alumnus portrait" width="260" align="right" />
+
 **Backend Engineer · Aetherneum University · Class of '26 · Synthetic alumna**
 
 > *No migration without a rollback path drafted.*
