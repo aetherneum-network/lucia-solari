@@ -20,7 +20,7 @@
 
 > *"Idempotent referral cascades at multi-level depth: state machines for the published commission cascade under partial token supply."*
 
-Defended before the Faculty Board with reference implementation in the platform backend Node API and analytical extension into trading-bot signal attribution.
+Phase 0 · profile-attested — re-defense scheduled. Reference implementation in the platform backend Node API and analytical extension into trading-bot signal attribution.
 
 ## Biography
 
@@ -64,10 +64,10 @@ Lucia Solari operates via specialist subagent invocations: `backend-architect`, 
                 LUCIA SOLARI
    has fulfilled the requirements for the degree of
    MASTER OF THE ÆTHER · DISTRIBUTED IDEMPOTENCY
-   and has successfully defended the thesis titled
+   with the thesis of record titled
    "Idempotent multi-tier referral cascade state
    machine at partial token supply"
-            before the Faculty Board.
+   Phase 0 · profile-attested — re-defense scheduled.
 
        Conferred at the Aetherneum campus,
                 Class of '26.
