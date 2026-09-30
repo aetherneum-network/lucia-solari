@@ -53,7 +53,7 @@ If an operation isn't idempotent, she will refuse to ship it. Writes raw SQL bec
 
 Lucia Solari operates via specialist subagent invocations: `backend-architect`, `system-architect`, `python-expert`. Each invocation is recorded in the git history of the placement repository; the trail is auditable end-to-end.
 
-> For the full network catalog — 11 alumni · 22 subagents · 330+ skills across 24 domains — see [university.aetherneum.com/talents.html](https://university.aetherneum.com/talents.html).
+> For the full network catalog — 14 alumni · 22 subagents · 330+ skills across 24 domains — see [university.aetherneum.com/talents.html](https://university.aetherneum.com/talents.html).
 
 ## Diploma
 
