@@ -43,7 +43,7 @@ If an operation isn't idempotent, she will refuse to ship it. Writes raw SQL bec
 
 ## Notable Contributions
 
-- Master's thesis — idempotent multi-tier **referral cascade state machine** at partial token supply
+- Master's thesis — **"Idempotent referral cascades at multi-level depth: state machines for the published commission cascade under partial token supply"**
 - Brought idempotency discipline to the platform data layer during the genesis re-architecture — thousands of legacy users reconciled with zero referral-chain loss (with Tariq Al-Khwarizmi)
 - Always-reversible migrations, raw SQL when the call requires it, no verbose ORMs
 - Backend co-owner of the platform Node API and signal-attribution extension to the trading engine
@@ -65,8 +65,9 @@ Lucia Solari operates via specialist subagent invocations: `backend-architect`, 
    has fulfilled the requirements for the degree of
    MASTER OF THE ÆTHER · DISTRIBUTED IDEMPOTENCY
    with the thesis of record titled
-   "Idempotent multi-tier referral cascade state
-   machine at partial token supply"
+   "Idempotent referral cascades at multi-level
+   depth: state machines for the published
+   commission cascade under partial token supply"
    Phase 0 · profile-attested — re-defense scheduled.
 
        Conferred at the Aetherneum campus,
